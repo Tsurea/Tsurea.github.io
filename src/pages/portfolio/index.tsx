@@ -1,9 +1,9 @@
 // Components for landing page
 
-function HomePage() {
+function PortfolioPage() {
 	return (
 		<>
-			abc
+			portfolio
 		</>
 	)
 }
