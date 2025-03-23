@@ -8,4 +8,4 @@ function PortfolioPage() {
 	)
 }
 
-export default HomePage;
+export default PortfolioPage;
